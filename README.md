@@ -34,3 +34,6 @@ This repository is licensed under a Creative Commons Attribution-NonCommercial-S
 ### Contributing
 请仔细阅读[CONTRIBUTING.md](https://github.com/komeiji-satori/Dress/blob/master/CONTRIBUTING.md)  
 Please read [CONTRIBUTING.md](https://github.com/komeiji-satori/Dress/blob/master/CONTRIBUTING.md) carefully.
+
+### Also see
+Girl-Dress-面向帅气的吕孩子的项目(https://github.com/greenaway07/Girl-Dress-)
